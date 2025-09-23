@@ -1,8 +1,5 @@
-Currently, I do **freelance projects** and also contributing to **open source code**.
+Building technology to improve people's lives. 
 
-To know more, you can **contact me** on [Mail](germanfernandez@gmail.com), [Discord](https://discord.com/users/546732670005149706).
+Currently creating [realtic.ai]( https://realtic.ai/) — software that optimizes and transforms the entire pre-sales process with artificial intelligence and modern technology
 
-<h2 align="left"><i>> Stack</i></h2>
- 
-<img width=210 src="https://skillicons.dev/icons?i=html,css,js,svelte,lua,nodejs,express,vite,git"/>
-
+To know more, you can **contact me** on [Mail](germanfndez@gmail.com)
