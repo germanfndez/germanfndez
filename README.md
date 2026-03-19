@@ -1,1 +1,1 @@
-To know more, you can **contact me** on [Mail](contact@germanfndez.com)
+To know more, you can **contact me** on [Mail](hello@germanfndez.com)
